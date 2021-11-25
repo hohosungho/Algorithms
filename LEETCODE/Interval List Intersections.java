@@ -22,5 +22,3 @@ class Solution {
         return list.toArray(new int[0][]);
     }
 }
-
-Interval List Intersections
